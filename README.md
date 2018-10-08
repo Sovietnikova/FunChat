@@ -1,2 +1,2 @@
 # FunChatik
-Chating App on Swift language using XCode and XCTest for the performing Test Automation
+Chating App on Swift language using Xcode and XCTest for the performing Test Automation
